@@ -203,6 +203,7 @@
 {"name":"Dark Room (Contrast)","url":"https://raw.githubusercontent.com/NeilCresswell/themes/master/textmate/DarkRoomContrast.tmTheme","light":false},
 {"name":"Dark Room (Normal)","url":"https://raw.githubusercontent.com/NeilCresswell/themes/master/textmate/DarkRoomNormal.tmTheme","light":false},
 {"name":"Dark","url":"https://raw.githubusercontent.com/chemdemo/IceWorld/master/Dark.tmTheme","light":false},
+{"name":"Dark Delights","url":"https://github.com/GhoulFool/DarkDelights/blob/DarkDelights/Dark%20Delights%20Color%20Scheme.sublime-package","light":false},
 {"name":"Darklime","url":"https://raw.githubusercontent.com/mmkjony/DarkLime-for-Sublime-Text/master/darklime.tmTheme","light":false},
 {"name":"DarkNeon","url":"https://raw.githubusercontent.com/RainyDayMedia/DarkNeon/master/DarkNeon.tmTheme","light":false},
 {"name":"DarkPastel","url":"https://raw.githubusercontent.com/jdiehl/dark-pastel/master/dark-pastel.tmTheme","light":false},
